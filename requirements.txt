@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+gradio
+pymupdf
+tiktoken
+sentence-transformers
