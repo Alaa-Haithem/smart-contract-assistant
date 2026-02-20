@@ -1,5 +1,4 @@
 # smart-contract-assistant
-# Smart Contract Summary & Q&A Assistant
 
 ## Description
 RAG-based assistant for contract summarization and Q&A.
